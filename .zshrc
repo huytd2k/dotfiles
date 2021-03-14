@@ -99,10 +99,20 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+
+# Functions
+function gitlazy() {
+	git add .
+	git commit -a -m "($1)"
+	git push
+}
+
 # Aliases
-#
+
 alias ysd="yarn start:dev"
 alias ys="yarn start"
+alias yt="yarn dev"
+alias ytw="yarn dev --watch"
 
 alias gocode="cd ~/Documents/Coding"
 alias gowork="cd ~/Documents/Coding/Work"
