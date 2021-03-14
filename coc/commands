@@ -1,0 +1,7 @@
+prettier.formatFile
+explorer
+eslint.executeAutofix
+tsserver.executeAutofix
+workspace.diagnosticRelated
+editor.action.organizeImport
+tsserver.organizeImports
