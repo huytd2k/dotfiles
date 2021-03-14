@@ -34,6 +34,8 @@ handle_macos_env() {
 }
 
 handle_linux_env() {
+	sudo apt update && sudo apt upgrade
+	sudo apt install curl
 	install_rust
 	install_alacritty
 	install_tmux_ubuntu
