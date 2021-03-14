@@ -103,7 +103,7 @@ source $ZSH/oh-my-zsh.sh
 # Functions
 function gitlazy() {
 	git add .
-	git commit -a -m "($1)"
+	git commit -a -m "$1"
 	git push
 }
 
