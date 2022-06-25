@@ -1,0 +1,121 @@
+[2022-06-22 22:00:19.360] [exthost] [info] Extension host with pid 46060 started
+[2022-06-22 22:00:19.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-22 22:00:19.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-22 22:00:19.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-22 22:00:19.466] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-06-22 22:00:19.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-22 22:00:19.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-22 22:00:19.609] [exthost] [info] Eager extensions activated
+[2022-06-22 22:00:19.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:00:19.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:00:19.626] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:00:19.634] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:00:19.656] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:00:49.993] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.whichkey, startup: false, activationEvent: 'onStartupFinished', root cause: VSpaceCode.vspacecode
+[2022-06-22 22:00:50.007] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.vspacecode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:04:05.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 22:04:05.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 22:04:05.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 22:06:53.145] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-22 22:06:53.499] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/mike/.vscode-oss/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/mike/.vscode-oss/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at g._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:13087)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:10645
+    at Array.map (<anonymous>)
+    at g._deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:10632)
+    at g.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:11014)
+    at g.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:36855)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:34800
+    at g.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-22 22:06:53.501] [exthost] [info] Extension host with pid 46060 exiting with code 0
+[2022-06-22 22:06:55.528] [exthost] [info] Extension host with pid 46446 started
+[2022-06-22 22:06:55.528] [exthost] [info] Skipping acquiring lock for /home/mike/.config/Code - OSS/User/workspaceStorage/bc9dcf03c9afb6f0bed7ad7b6b661ac1.
+[2022-06-22 22:06:55.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-22 22:06:55.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-22 22:06:55.612] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-22 22:06:55.615] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-06-22 22:06:55.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-22 22:06:55.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-22 22:06:55.840] [exthost] [info] Eager extensions activated
+[2022-06-22 22:06:55.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:06:55.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:06:55.858] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:06:55.863] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:06:55.880] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:06:55.891] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.whichkey, startup: false, activationEvent: 'onStartupFinished', root cause: VSpaceCode.vspacecode
+[2022-06-22 22:06:55.916] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.vspacecode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 22:08:07.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-22 22:08:07.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-22 22:08:07.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-22 22:08:07.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-22 22:09:10.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-06-22 22:10:00.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-06-22 22:10:00.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-06-22 23:07:06.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 23:08:25.783] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-22 23:08:26.103] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/mike/.vscode-oss/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/mike/.vscode-oss/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at g._deactivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:13087)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:10645
+    at Array.map (<anonymous>)
+    at g._deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:10632)
+    at g.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:88:11014)
+    at g.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at a (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:36855)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:34800
+    at g.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-22 23:08:26.105] [exthost] [info] Extension host with pid 46446 exiting with code 0
+[2022-06-22 23:08:27.757] [exthost] [info] Extension host with pid 65593 started
+[2022-06-22 23:08:27.758] [exthost] [info] Skipping acquiring lock for /home/mike/.config/Code - OSS/User/workspaceStorage/bc9dcf03c9afb6f0bed7ad7b6b661ac1.
+[2022-06-22 23:08:28.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 23:08:28.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 23:08:28.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-22 23:08:28.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-22 23:08:28.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-22 23:08:28.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-22 23:08:28.210] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-06-22 23:08:28.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-22 23:08:28.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-22 23:08:28.541] [exthost] [info] Eager extensions activated
+[2022-06-22 23:08:28.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 23:08:28.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 23:08:28.704] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 23:08:28.710] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 23:08:28.741] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-22 23:08:28.755] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.whichkey, startup: false, activationEvent: 'onStartupFinished', root cause: VSpaceCode.vspacecode
+[2022-06-22 23:08:28.854] [exthost] [info] ExtensionService#_doActivateExtension VSpaceCode.vspacecode, startup: false, activationEvent: 'onStartupFinished'
