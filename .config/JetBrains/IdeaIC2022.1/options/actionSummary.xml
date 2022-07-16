@@ -1,0 +1,184 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1656363419926" />
+    </e>
+    <e n="ActivateMavenToolWindow">
+      <i c="1" d="1" l="1656361669846" k="1656361669846" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="2" l="1656673009983" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="1" d="1" l="1656361454030" k="1656361454030" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="5" l="1656362941361" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="7" l="1656363526461" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1656362528563" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1656360801523" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="450" l="1656672972313" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1656360617985" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="42" l="1656365960696" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1656360724248" />
+    </e>
+    <e n="EditorDown">
+      <i c="58" l="1656362708939" />
+    </e>
+    <e n="EditorEnter">
+      <i c="42" l="1656365958808" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1656359514761" />
+    </e>
+    <e n="EditorUp">
+      <i c="31" l="1656361358076" />
+    </e>
+    <e n="GotoAction">
+      <i c="26" l="1656363464772" />
+    </e>
+    <e n="GotoFile">
+      <i c="4" l="1656363418176" />
+    </e>
+    <e n="InsertLiveTemplate">
+      <i c="3" l="1656361331696" />
+    </e>
+    <e n="JumpToColorsAndFonts">
+      <i c="1" d="1" l="1656359742972" k="1656359742972" />
+    </e>
+    <e n="Maven.AddManagedFiles">
+      <i c="2" d="1" l="1656361853210" k="1656360555459" />
+    </e>
+    <e n="Maven.DownloadAllGroupPopup">
+      <i c="1" l="1656362524811" />
+    </e>
+    <e n="Maven.DownloadSelectedSources">
+      <i c="1" l="1656362238319" />
+    </e>
+    <e n="Maven.Reimport">
+      <i c="19" l="1656364334707" />
+    </e>
+    <e n="Maven.ShowSettings">
+      <i c="1" l="1656362246083" />
+    </e>
+    <e n="Maven.ShowSettingsGroup">
+      <i c="6" l="1656362278377" />
+    </e>
+    <e n="Maven.ToggleSkipTests">
+      <i c="1" l="1656361869711" />
+    </e>
+    <e n="Maven.UpdateFolders">
+      <i c="9" l="1656364312892" />
+    </e>
+    <e n="NewClass">
+      <i c="3" l="1656365949820" />
+    </e>
+    <e n="NewDir">
+      <i c="2" d="1" l="1656360384068" k="1656359841905" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1656672900510" />
+    </e>
+    <e n="QuickPreview">
+      <i c="6" l="1656362213541" />
+    </e>
+    <e n="RecentFiles">
+      <i c="3" l="1656362447654" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1656359871539" />
+    </e>
+    <e n="RestartIde">
+      <i c="3" d="3" l="1656361787279" k="1656361787279" />
+    </e>
+    <e n="SaveDocument">
+      <i c="39" l="1656365939684" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="11" l="1656366003478" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1656360175636" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1656360355150" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="2" l="1656360355503" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="4" l="1656361097150" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1656359356730" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="6" d="6" l="1656360224872" k="1656360224872" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="2" d="2" l="1656363465552" k="1656363465552" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="2" l="1656361842982" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1656359911760" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1656361991250" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="504" l="1656366001068" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1656365942768" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="27" l="1656363465540" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="3" l="1656362449804" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1656673019498" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1656361860336" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1656363481882" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="25" l="1656362449404" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="4" l="1656362449596" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="17" l="1656672961149" />
+    </e>
+    <e n="com.mallowigi.idea.actions.statusbar.MTThemeAction">
+      <i c="1" l="1656359717892" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1656360165664" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
+      <i c="1" l="1656360168130" />
+    </e>
+  </component>
+</application>

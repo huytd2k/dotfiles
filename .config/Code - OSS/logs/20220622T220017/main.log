@@ -1,6 +1,0 @@
-[2022-06-22 22:00:17.502] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-06-22 22:00:18.903] [main] [info] Starting extension host with pid 46060 (fork() took 10 ms).
-[2022-06-22 22:06:53.519] [main] [info] Extension host with pid 46060 exited with code: 0, signal: null.
-[2022-06-22 22:06:54.419] [main] [info] Starting extension host with pid 46446 (fork() took 8 ms).
-[2022-06-22 23:08:26.120] [main] [info] Extension host with pid 46446 exited with code: 0, signal: null.
-[2022-06-22 23:08:27.226] [main] [info] Starting extension host with pid 65593 (fork() took 7 ms).

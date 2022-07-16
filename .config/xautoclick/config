@@ -1,0 +1,4 @@
+predelay=2000
+interval=1000
+random_factor=250
+clicks_number=2147483647

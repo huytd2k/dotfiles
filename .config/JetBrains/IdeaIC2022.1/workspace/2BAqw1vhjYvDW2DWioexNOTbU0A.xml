@@ -1,0 +1,316 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="oopprj" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/core/rdf/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/OOPProjectApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="16" lastUsed="1656362677746" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="8" lastUsed="1656361796104" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/soict/oopprj/core/rdf/Test.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/soict/oopprj/OOPProjectApp.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oopprj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oopprj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oopprj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.jena:apache-jena-libs:pom:4.4.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oopprj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oopprj" type="462c0819:PsiDirectoryNode" />
+              <item name="rdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.OOPProjectApp" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="oopprj-history" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.122135416" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33001894" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33007812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.33001894" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33001894" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33001894" />
+      <window_info anchor="bottom" id="Services" order="8" weight="0.33001894" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.203125" />
+      <window_info anchor="bottom" id="Dependencies" order="10" visible="true" weight="0.33096594" />
+      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.17213541" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Dependencies</value>
+      <value>Maven</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>Build</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="212" width="426" height="456" key="FileChooserDialogImpl" timestamp="1656361860343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="358" y="212" width="426" height="456" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1656361860343" />
+    <state width="1274" height="225" key="GridCell.Tab.0.bottom" timestamp="1656359950612">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1274" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1656359950612" />
+    <state width="1274" height="225" key="GridCell.Tab.0.center" timestamp="1656359950612">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1274" height="225" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1656359950612" />
+    <state width="1274" height="225" key="GridCell.Tab.0.left" timestamp="1656359950611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1274" height="225" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1656359950611" />
+    <state width="1274" height="225" key="GridCell.Tab.0.right" timestamp="1656359950612">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1274" height="225" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1656359950612" />
+    <state x="147" y="77" width="1006" height="702" key="SettingsEditor" timestamp="1656363492241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="147" y="77" width="1006" height="702" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1656363492241" />
+    <state width="498" height="471" key="SwitcherDM" timestamp="1656362449805">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="471" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1656362449805" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1656362214193">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1656362214193" />
+    <state x="559" y="176" width="800" height="750" key="new project wizard" timestamp="1656364164174">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="176" width="800" height="750" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1656364164174" />
+    <state x="331" y="204" width="672" height="687" key="search.everywhere.popup" timestamp="1656363465543">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="331" y="204" width="672" height="687" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1656363465543" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/soict/oopprj/hello-view.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/core/rdf/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soict/oopprj/OOPProjectApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

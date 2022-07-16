@@ -1,0 +1,125 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">YWN0aW9uIFNob3dTZXR0aW5ncw==</entry>
+        <entry encoding="base64">YWN0aW9uIFJlY2VudEZpbGVz</entry>
+        <entry encoding="base64">YWN0aW9uIEdvdG9GaWxl</entry>
+        <entry encoding="base64">YWN0aW9uIEdvdG9BY3Rpb24=</entry>
+        <entry encoding="base64">YWN0aW9uIFNhdmVEb2N1bWVudA==</entry>
+        <entry encoding="base64">YWN0aW9uIEFjdGl2YXRlUHJvamVjdFRvb2xXaW5kb3c=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/oopprj/pom.xml" timestamp="1656363110957">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/demo/src/main/java/com/example/demo/Test.java" timestamp="1656366001069">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/oopprj/src/main/java/com/soict/oopprj/OOPProjectApp.java" timestamp="1656363655246">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/oopprj/src/main/java/com/soict/oopprj/core/rdf/Test.java" timestamp="1656363524288">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/demo/pom.xml" timestamp="1656364332443">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/oopprj/src/main/java/module-info.java" timestamp="1656363434806">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/demo/src/main/java/module-info.java" timestamp="1656365938902">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="29" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Lg==</text>
+      </register>
+      <register name="*" type="4">
+        <text encoding="base64">Lg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Lg==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">aW1vcnRwb3J0IG9yZy5lY2xpcHMuL3NlLnJkZjRqLnJpby5SREZQYXJzZTs=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">b3JnLmVjbGlwc2UucmRmNGo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVzIG9yZy5hcGFjaGUuamVuYS5jb3JlOwo=</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBSREZQYXJzZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuamVuYS5yZGZ4bWwueG1saW5wdXQuaW1wbC5SREZYTUxQYXJzZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVzIG9yZy5lY2xpcHNlLnJkZjRqOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVzIG9yZy5lY2xpcHMuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmVzIG9yZy5lbGkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSREZQYXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuamVuYS5yZGYubW9kZWwuTW9kZWw7CmltcG9ydCBvcmcuYXBhY2hlLmplbmEucmRmeG1sLnhtbGlucHV0LmltcGwuUkRGWE1MUGFyc2VyOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">YWN0aW9uIEFjdGl2YXRlUHJvamVjdFRvb2xXaW5kb3c=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+</application>

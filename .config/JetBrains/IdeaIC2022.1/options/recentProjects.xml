@@ -1,0 +1,61 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/oopprj">
+          <value>
+            <RecentProjectMetaInfo frameTitle="oopprj – OOPProjectApp.java" projectWorkspaceId="2BAqw1vhjYvDW2DWioexNOTbU0A">
+              <option name="activationTimestamp" value="1656364166012" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5921.22" />
+              <option name="buildTimestamp" value="1655852231484" />
+              <frame x="0" y="24" width="1920" height="1056" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1656359473603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo – HelloApplication.java" projectWorkspaceId="2BB0Rlo8BEuTkFzTnCds1sRzAy7">
+              <option name="activationTimestamp" value="1656672997358" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5921.22" />
+              <option name="buildTimestamp" value="1655852270444" />
+              <frame x="964" y="28" width="944" height="1040" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1656364166193" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ProjectOOP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ProjectOOP – Main.java" opened="true" projectWorkspaceId="2BL6PZcmftSxThz9SKBBRVHTQXm">
+              <option name="activationTimestamp" value="1656673016996" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5921.22" />
+              <option name="buildTimestamp" value="1655852257501" />
+              <frame x="964" y="28" width="944" height="1040" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1656672997679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="bottomGroup" value="true" />
+          <option name="name" value="Eclipse Projects" />
+          <option name="projects">
+            <list>
+              <option value="$USER_HOME$/javardf/my-app" />
+            </list>
+          </option>
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
